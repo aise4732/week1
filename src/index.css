@@ -1,0 +1,67 @@
+.header{
+  display: flex;
+}
+.meet {
+  align-items: center;
+}
+.logo {
+  margin-left: 40%;
+}
+
+.images {
+  padding-left: 30%;
+}
+
+.a-container {
+background-color: rgb(77,159,168);
+font-size: 8px;
+border-radius: 15px;
+padding: 10px 40px;
+margin: 15px;
+}
+
+.b-container {
+  background-color: rgb(133, 95, 177);
+  font-size: 8px;
+  border-radius: 15px;
+padding: 10px 40px;
+margin: 15px;
+
+}
+
+.c-container {
+  background-color: rgb(77,159,168);
+  font-size: 8px;
+  border-radius: 15px;
+  padding: 10px 40px;
+  margin: 15px;
+  }
+
+div.gallery {
+  margin: 5%;
+  border: 1px solid #ccc;
+  float: left;
+  width: 200px;
+  
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.middle {
+  margin-left: 40%;
+}
+
+.f-one{
+  float: left; margin-left: 5%;
+}
+.f-two{ float: right; margin-right: 50%;} 
+.f-three {
+  float: right; margin-right: 20%; 
+}
